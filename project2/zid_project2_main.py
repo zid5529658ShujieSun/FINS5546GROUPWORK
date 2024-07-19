@@ -22,7 +22,7 @@
 # are imported as "cfg", and "util"
 #
 # <COMPLETE THIS PART>
-
+# test
 
 # We've imported other needed scripts and defined aliases. Please keep using the same aliases for them in this project.
 from project2 import zid_project2_etl as etl
